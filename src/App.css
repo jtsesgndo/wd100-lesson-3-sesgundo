@@ -6,11 +6,21 @@
   height: 40vmin;
   pointer-events: none;
 }
+.navMenu{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  list-style: none;
+  width: 500px;
+}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.nav-body{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+
 }
 
 .App-header {
@@ -36,3 +46,4 @@
     transform: rotate(360deg);
   }
 }
+
