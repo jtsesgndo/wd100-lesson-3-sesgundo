@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wd100-lesson-3-sesgundo/static/css/main.9edbe760.css",
+    "main.js": "/wd100-lesson-3-sesgundo/static/js/main.cb1ec40c.js",
+    "static/js/453.b13e8c58.chunk.js": "/wd100-lesson-3-sesgundo/static/js/453.b13e8c58.chunk.js",
+    "static/media/image+2.png": "/wd100-lesson-3-sesgundo/static/media/image+2.f38a9d56dabbeb7052ba.png",
+    "static/media/Como Plate.jpg": "/wd100-lesson-3-sesgundo/static/media/Como Plate.1bc232f477856817c509.jpg",
+    "static/media/Shrimp Plate.jpg": "/wd100-lesson-3-sesgundo/static/media/Shrimp Plate.e65371266b8352b6aa76.jpg",
+    "static/media/Torta.jpg": "/wd100-lesson-3-sesgundo/static/media/Torta.21482d3e23404f0b7a3b.jpg",
+    "static/media/Taquitos  Flautas.jpeg": "/wd100-lesson-3-sesgundo/static/media/Taquitos  Flautas.aa2926ade5399f036171.jpeg",
+    "static/media/Fish Tacos.jpg": "/wd100-lesson-3-sesgundo/static/media/Fish Tacos.69b59511ec4435ea038b.jpg",
+    "static/media/Flour Soft Taco.jpg": "/wd100-lesson-3-sesgundo/static/media/Flour Soft Taco.6ded0422fd32b5603b6d.jpg",
+    "index.html": "/wd100-lesson-3-sesgundo/index.html",
+    "main.9edbe760.css.map": "/wd100-lesson-3-sesgundo/static/css/main.9edbe760.css.map",
+    "main.cb1ec40c.js.map": "/wd100-lesson-3-sesgundo/static/js/main.cb1ec40c.js.map",
+    "453.b13e8c58.chunk.js.map": "/wd100-lesson-3-sesgundo/static/js/453.b13e8c58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9edbe760.css",
+    "static/js/main.cb1ec40c.js"
+  ]
+}
